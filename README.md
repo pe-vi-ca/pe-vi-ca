@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pe-vi-ca
-- 👀 I’m interested in Computer Network, IA, Data Analytics, Data Science
+- 👀 I’m interested in Computer Networks, IA, Data Analytics, Data Science
 - 🌱 I’m currently learning Databricks
 - 📫 How to reach me ...
 
